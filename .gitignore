@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# env / local
+.env
+.env.local
+.env.*.local
+
+# logs
+*.log
+npm-debug.log*
+
+# vercel
+.vercel
